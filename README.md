@@ -10,8 +10,4 @@ The code is FREE for non commercial use by Amateur Radio Operators.
 <h3>Maintenance</h3>
 Last Update: 19/06/2017<br>
 
-<script>
-var list = document.getElementById("logo");
-list.outerHTML = '<img src="https://raw.githubusercontent.com/4Z1KD/EazyAz/master/EzAz.png" width="156px" style="position:absolute; top:-80px;right:10px;background:transparent"/>';
-</script>
-<img src="https://raw.githubusercontent.com/4Z1KD/EazyAz/master/Images/EzAz.png" width="1px" style="display:none;"/>
+<img src="https://raw.githubusercontent.com/4Z1KD/EazyAz/master/EzAz.png" width="1px" style="display:none;"/>
