@@ -1,5 +1,5 @@
 <h1> EasyAz </h1>
-** EasyAz is a controller firmware for ham radio antenna rotators
+EasyAz is a controller firmware for ham radio antenna rotators
 
 <h2>Authors</h2>
 Design and Code: **_<a href="https://www.qrz.com/db/4z1kd" target="_blank">Gil, 4Z1KD</a>_**<br>
