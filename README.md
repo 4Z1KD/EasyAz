@@ -8,6 +8,9 @@
 <h2>Schema</h2>
 ![ezazschema](https://user-images.githubusercontent.com/24712835/27282925-b9478172-54fa-11e7-809c-43aa05a59353.png)
 
+<h2>Download</h2>
+<a href="https://github.com/4Z1KD/EasyAz/archive/master.zip" target="_blank">EasyAZ</a>
+
 <h2>Authors</h2>
 Design and Code: **_<a href="https://www.qrz.com/db/4z1kd" target="_blank">Gil, 4Z1KD</a>_**<br>
 
