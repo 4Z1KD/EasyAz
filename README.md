@@ -1,5 +1,5 @@
 <div style="position: relative">
-<div style="float:left; font-size:24px">EasyAz</div>
+<div style="float:left; font-size:24px"><h1>EasyAz</h1></div>
 <div style="float:right; margin-top: -30px"><img src="https://user-images.githubusercontent.com/24712835/27280901-56269040-54f2-11e7-8a84-e4471154da92.png" width="80px"></div>
 <div style="clear:both">EasyAz is a controller firmware for ham radio antenna rotators</div>
 </div>
