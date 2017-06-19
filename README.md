@@ -16,5 +16,3 @@ The code is FREE for non commercial use by Amateur Radio Operators.
 
 <h3>Maintenance</h3>
 Last Update: 19/06/2017<br>
-
-![ezaz](https://user-images.githubusercontent.com/24712835/27280901-56269040-54f2-11e7-8a84-e4471154da92.png)
